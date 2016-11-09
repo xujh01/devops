@@ -1,0 +1,62 @@
+
+2016/11/07 15:15:49 [notice] 4844#6472: signal process started
+2016/11/07 15:18:38 [notice] 6932#6112: signal process started
+2016/11/07 15:21:04 [notice] 6524#7440: signal process started
+2016/11/07 15:22:32 [notice] 5664#764: signal process started
+2016/11/07 15:22:46 [notice] 7296#6220: signal process started
+2016/11/07 15:24:18 [error] 5952#7448: *1 CreateFile() "D:\nginx-1.10.2/test/yiban.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /yiban.html HTTP/1.1", host: "localhost"
+2016/11/07 15:25:43 [notice] 6500#5424: signal process started
+2016/11/07 15:25:48 [error] 8172#1880: *13 CreateFile() "D:\nginx-1.10.2/test/yiban.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /yiban.html HTTP/1.1", host: "localhost"
+2016/11/07 15:26:32 [error] 8172#1880: *13 CreateFile() "D:\nginx-1.10.2/test/yiban.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /yiban.html HTTP/1.1", host: "localhost"
+2016/11/07 15:27:36 [notice] 7720#3960: signal process started
+2016/11/07 15:28:04 [notice] 7296#7944: signal process started
+2016/11/07 15:28:40 [notice] 7508#6932: signal process started
+2016/11/07 15:30:17 [notice] 7332#1188: signal process started
+2016/11/07 15:32:02 [notice] 5872#7824: signal process started
+2016/11/07 15:35:13 [notice] 4176#7948: signal process started
+2016/11/07 15:36:25 [notice] 1352#6320: signal process started
+2016/11/07 15:39:29 [notice] 3820#7992: signal process started
+2016/11/07 15:44:47 [notice] 5692#2620: signal process started
+2016/11/07 15:44:49 [notice] 6684#6280: signal process started
+2016/11/07 15:46:37 [notice] 5096#3836: signal process started
+2016/11/07 15:48:47 [notice] 4576#7568: signal process started
+2016/11/07 15:49:52 [notice] 7904#6916: signal process started
+2016/11/07 15:51:24 [notice] 1084#7976: signal process started
+2016/11/07 15:53:43 [notice] 7860#6840: signal process started
+2016/11/07 15:58:01 [notice] 2820#7584: signal process started
+2016/11/07 16:00:43 [notice] 5800#7712: signal process started
+2016/11/07 16:02:22 [notice] 6112#3132: signal process started
+2016/11/07 16:02:54 [notice] 3452#5992: signal process started
+2016/11/07 16:05:01 [notice] 2348#6484: signal process started
+2016/11/07 16:05:45 [notice] 6244#5648: signal process started
+2016/11/07 16:07:57 [notice] 6956#6360: signal process started
+2016/11/07 16:08:12 [error] 7316#1588: *99 directory index of "D:\nginx-1.10.2/test/dynamic/hel/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /dynamic/hel/ HTTP/1.1", host: "localhost"
+2016/11/07 16:08:44 [notice] 7644#4964: signal process started
+2016/11/07 16:11:11 [notice] 5248#796: signal process started
+2016/11/07 16:12:09 [notice] 6104#3684: signal process started
+2016/11/07 16:17:13 [notice] 5088#3660: signal process started
+2016/11/07 16:18:16 [notice] 1596#6648: signal process started
+2016/11/07 16:26:24 [notice] 2672#5704: signal process started
+2016/11/07 16:26:57 [error] 7916#6220: *135 CreateFile() "D:\nginx-1.10.2/test/dynamic/hel/world" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /dynamic/hel/world HTTP/1.1", host: "localhost"
+2016/11/07 16:29:08 [notice] 1728#6944: signal process started
+2016/11/07 16:30:13 [notice] 2140#7380: signal process started
+2016/11/07 16:34:45 [notice] 7288#6932: signal process started
+2016/11/07 16:35:51 [notice] 1064#6396: signal process started
+2016/11/07 16:37:37 [error] 6252#6700: *191 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /dynamic/hel/world HTTP/1.1", upstream: "http://10.74.41.103:6000/dynamic/hel/world", host: "localhost"
+2016/11/07 16:37:59 [notice] 7640#7128: signal process started
+2016/11/07 16:43:29 [notice] 4000#4844: signal process started
+2016/11/07 16:44:53 [notice] 7120#3544: signal process started
+2016/11/07 16:45:02 [error] 7508#6076: *210 CreateFile() "D:\nginx-1.10.2/test/dynamic/hel/world" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /dynamic/hel/world HTTP/1.1", host: "localhost"
+2016/11/07 16:49:58 [notice] 7916#664: signal process started
+2016/11/07 16:50:04 [error] 7476#6448: *214 CreateFile() "D:\nginx-1.10.2/test/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost"
+2016/11/07 16:52:21 [notice] 1648#7288: signal process started
+2016/11/07 16:52:33 [error] 6656#7968: *223 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:55:00 [notice] 7772#6832: signal process started
+2016/11/07 16:55:04 [error] 7464#6740: *226 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /sti/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:55:15 [error] 7464#6740: *226 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /sti/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:57:01 [notice] 6860#7572: signal process started
+2016/11/07 16:57:17 [error] 7468#1692: *230 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:57:57 [error] 7468#1692: *230 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:57:58 [error] 7468#1692: *230 CreateFile() "D:\nginx-1.10.2/test/sti/hello" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /test/hello HTTP/1.1", host: "localhost"
+2016/11/07 16:58:39 [notice] 6152#7228: signal process started
+2016/11/07 20:48:44 [notice] 1416#2084: signal process started
